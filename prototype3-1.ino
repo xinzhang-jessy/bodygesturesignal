@@ -1,4 +1,7 @@
 /*********************************************************
+DIGF Body Centric-prototype3-1
+Jessy
+
 This example interfaces with the Adafruit MPR121 capacitive board: https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial/overview
  * Reads all 0 pins and writes a 1 or 0 separated by commas
  * 
